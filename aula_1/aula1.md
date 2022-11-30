@@ -27,7 +27,7 @@ Em geral, a **representação intermediária** consiste em uma árvore sintátic
 
 ### Exemplo de árvore sintática
 
-![imagem2](./img/aula1/Captura%20de%20tela%20de%202022-11-30%2000-56-15.png)
+![imagem2](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula1/Captura%20de%20tela%20de%202022-11-30%2000-56-15.png)
 
 ### Análise do programa fonte 
 
@@ -68,8 +68,7 @@ A estrutura hierárquica pode ser definida por meio de regras recursivas. Por ex
 
 ### Exemplo de árvore gramatical
 
-![imagem3](./img/aula1/Captura%20de%20tela%20de%202022-11-30%2001-24-04.png
-)
+![imagem3](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula1/Captura%20de%20tela%20de%202022-11-30%2001-24-04.png)
 
 ## Análise semântica
 
@@ -85,7 +84,7 @@ As primeiras fases estão relacionadas à análise do programa fonte, as última
 
 ### Representação típica das fases de um compilador
 
-![imagem4](./img/aula1/Captura%20de%20tela%20de%202022-11-30%2002-37-50.png)
+![imagem4](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula1/Captura%20de%20tela%20de%202022-11-30%2002-37-50.png)
 
 ## Gerenciamento da tabela de símbolos
 
@@ -128,7 +127,7 @@ Uma representação possível é o código de três endereços. Além de computa
 
 ### Exemplo de geração de código intermediário
 
-![imagem5](./img/aula1/Captura%20de%20tela%20de%202022-11-30%2003-12-59.png)
+![imagem5](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula1/Captura%20de%20tela%20de%202022-11-30%2003-12-59.png)
 
 ## Otimização de código
 
@@ -138,7 +137,7 @@ As otimizações não devem alterar a semântica do código intermediário. Elas
 
 ### Exemplo de otimização de código intermediário
 
-![imagem6](./img/aula1/Captura%20de%20tela%20de%202022-11-30%2003-18-37.png)
+![imagem6](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula1/Captura%20de%20tela%20de%202022-11-30%2003-18-37.png)
 
 ## Geração de código
 
@@ -146,7 +145,7 @@ A geração de código é a última etapa da compilação, ela produz o programa
 
 ### Exemplo de geração de código em pseudo assembly
 
-![imagem7](./img/aula1/Captura%20de%20tela%20de%202022-11-30%2003-22-24.png)
+![imagem7](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula1/Captura%20de%20tela%20de%202022-11-30%2003-22-24.png)
 
 ## Interface de vanguarda
 
