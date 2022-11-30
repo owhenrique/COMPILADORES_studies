@@ -13,7 +13,7 @@ Um compilador é um programa, que lê um programa escrito em uma **linguagem (fo
 
 ### Exemplo do fluxo de geração de um programa executável
 
-![imagem1](./img/aula1/Captura%20de%20tela%20de%202022-11-30%2000-43-55.png)
+![imagem1](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula1/Captura%20de%20tela%20de%202022-11-30%2000-43-55.png)
 
 ## Análise e Síntese
 
