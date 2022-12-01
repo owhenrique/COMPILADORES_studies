@@ -18,4 +18,4 @@ O analisador léxico gerará um fluxo de tokens que alimentarão o tradutor diri
 
 ## Estrutura da interface de vanguarda do compilador
 
-![imagem1]()
+![imagem1](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula2-1/Captura%20de%20tela%20de%202022-12-01%2000-39-34.png)
