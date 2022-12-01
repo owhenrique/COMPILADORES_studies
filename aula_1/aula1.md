@@ -35,7 +35,7 @@ A análise é composta por três fases, e são elas:
 
 * A **análise linear**, onde o fluxo de caracteres que compõem o programa alvo é lido, da esquerda para a direita, e agrupado em *tokens* (sequência de caracteres com significado coletivo);
 
-* A **análise hierárquica**, onde os *tokes* são ordenados hierarquicamente em coleções aninhadas com significado coletivo;
+* A **análise hierárquica**, onde os *tokens* são ordenados hierarquicamente em coleções aninhadas com significado coletivo;
 
 * A **análise semântica**, onde ocorre a verificação que garante que os componentes do programa se combinam de forma significativa.
 
