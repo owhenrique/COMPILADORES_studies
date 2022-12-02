@@ -70,7 +70,7 @@ Dada a gramática livre de contexto, uma árvore gramatical possui as seguintes 
 
 ### Visualização da árvore gramatical da expressão 1-2+3
 
-![imagem1]()
+![imagem1](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula2-2/Captura%20de%20tela%20de%202022-12-02%2000-13-53.png)
 
 ## Características da árvore gramatical
 
@@ -82,7 +82,7 @@ Uma gramática que permite a construção de duas ou mais árvores gramaticais d
 
 ### Exemplo de gramática ambígua
 
-![imagem2]()
+![imagem2](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula2-2/Captura%20de%20tela%20de%202022-12-02%2000-22-19.png)
 
 ## Associatividade de operadores
 
