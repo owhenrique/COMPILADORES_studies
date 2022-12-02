@@ -26,11 +26,11 @@ Um atributo é dito **sintetizado** se seu valor depende apenas dos valores dos 
 
 ## Definição dirigida pela sintaxe para a tradução de notação infixa para posfixa
 
-![imagem1]()
+![imagem1](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula2-3/Captura%20de%20tela%20de%202022-12-02%2002-47-40.png)
 
 ### Valores dos atributos nos nós da árvore gramatical da expressão 1-2+3
 
-![imagem2]()
+![imagem2](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula2-3/Captura%20de%20tela%20de%202022-12-02%2002-50-43.png)
 
 ## Esquema de tradução
 
@@ -40,8 +40,8 @@ Na árvore gramatical uma ação semântica é indicada por um filho extra, cone
 
 ### Ações semânticas para a tradução de expressões para a notação posfixa
 
-![imagem3]()
+![imagem3](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula2-3/Captura%20de%20tela%20de%202022-12-02%2002-59-59.png)
 
 ### Árvore gramatical com ações semânticas que traduz a expressão 1-2+3
 
-![imagem4]()
+![imagem4](https://github.com/owhenrique/COMPILADORES_studies/blob/main/img/aula2-3/Captura%20de%20tela%20de%202022-12-02%2003-02-18.png)
