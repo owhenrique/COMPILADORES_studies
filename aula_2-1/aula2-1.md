@@ -12,7 +12,7 @@ A especificação da semântica é mais complicada, de modo que em muitos casos 
 
 ## Compilador de expressões infixas para posfixas
 
-A tradução dirigida pela sintaxe será ilustrada por meio do desenvolvimento de um compilador simples de uma passagem que traduz expressões na forma infixa para a forma posfixa. Por exemplo, a expressão 1-2+3, que está na forma infixa (o operador está posicionado entre os operandos), corresponde a expressão posfixa 12-3+ (o perador sucede os dois operandos, assuma que cada operando consiste em um único dígito). A forma posfixa pode ser convertida diretamente para um programa que executa a expressão usando uma pilha.
+A tradução dirigida pela sintaxe será ilustrada por meio do desenvolvimento de um compilador simples de uma passagem que traduz expressões na forma infixa para a forma posfixa. Por exemplo, a expressão 1-2+3, que está na forma infixa (o operador está posicionado entre os operandos), corresponde a expressão posfixa 12-3+ (o operador sucede os dois operandos, assuma que cada operando consiste em um único dígito). A forma posfixa pode ser convertida diretamente para um programa que executa a expressão usando uma pilha.
 
 O analisador léxico gerará um fluxo de tokens que alimentarão o tradutor dirigido pela sintaxe (o qual combinará o analisador sintático com o gerador de código intermediário), que por sua vez gerará a representação posfixa. 
 
