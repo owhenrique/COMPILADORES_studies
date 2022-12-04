@@ -9,4 +9,4 @@ Repositório dedicado aos estudos/exercícios da disciplina de Compiladores 1.
     * <a href="https://github.com/owhenrique/COMPILADORES_studies/tree/main/aula_2-3">Tradução dirigida pela sintaxe</a>
     * <a href="https://github.com/owhenrique/COMPILADORES_studies/tree/main/aula_2-4">A análise gramatical</a>
     * <a href="https://github.com/owhenrique/COMPILADORES_studies/tree/main/aula_2-5">Um tradutor para expressões simples</a>
-    * <a hred="https://github.com/owhenrique/COMPILADORES_studies/tree/main/aula_2-6">Análise léxica</a>
+    * <a href="https://github.com/owhenrique/COMPILADORES_studies/tree/main/aula_2-6">Análise léxica</a>
