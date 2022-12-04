@@ -4,7 +4,7 @@ Análise léxica.
 
 ## Scanners
 
-Em uma dada gramática, as sentenças de uma linguagem são compostas por cadeia de tokens. A sequência de caracteres que compõem um único token é denominada lexema.
+Em uma dada gramática, as sentenças de uma linguagem são compostas por cadeia de tokens. A sequência de caracteres que compõem um único token é denominada **lexema**.
 
 Um *scanner* (ou analisador léxico) processa a entrada para produzir uma sequência de tokens. Dentre as diferentes tarefas que um *scanner* pode realizar estão: remoção de espaços em branco e comentário, identificação de constantes, identificadores e palavras-chave.
 
@@ -16,7 +16,9 @@ Os espaços em branco podem ser tratados de duas maneiras:
 
 1. A gramática deve ser alterada para contemplar os espaços (localização, quantidade, etc), o que traz dificuldades para a especificação da gramática e para a implementação do scanner.
 
-2. O *scanner* também pode ignorar os comentários, de modo que estes possam ser tratados como espaços em branco.
+2. O scanner simplesmente ignora os espaços em branco (solução mais comum).
+
+O *scanner* também pode ignorar os comentários, de modo que estes possam ser tratados como espaços em branco.
 
 ## Identificação de constantes inteiras
 
@@ -28,7 +30,7 @@ Para cada constante inteira, o scanner gerará um token de um atributo, sendo o 
 
 As linguagens de programação utilizam identificadores para nomear variáveis, vetores, funções e outros elementos. As gramáticas das linguagens, em geral, tratam os identificadores como tokens.
 
-Os analisadores gramaticais (*parsers*) destas gramáticas esperam um mesmo token (por exemplo ,**id**) sempre que um identificador aparece na entrada. Por exemplo, a expresão x = x + y; deve ser convertida pelo *scanner* para **id = id + id;**.
+Os analisadores gramaticais (*parsers*) destas gramáticas esperam um mesmo token (por exemplo, **id**) sempre que um identificador aparece na entrada. Por exemplo, a expresão x = x + y; deve ser convertida pelo *scanner* para **id = id + id;**.
 
 Na análise sintática, é útil saber que as duas primeiras ocorrências de **id** se referem ao lexema x, enquanto que a última se refere ao lexema y.
 
@@ -50,7 +52,7 @@ A interação entre ambos depende do *buffer* que armazena os tokens produzidos:
 
 ## Implementação da identificação de constantes inteiras
 
-Para que as constantes inteiras possam ser devidamente identificadas no código do scanner, é preciso que elas façam parte da gramática. Por exemplo, a produção do não terminal *fator*:
+Para que as constantes inteiras possam ser devidamente identificadas no código do scanner, é preciso que elas façam parte da gramática. Por exemplo, a produção do não-terminal *fator*:
 
 *fator* -> **digito** | *(expr)*
 
