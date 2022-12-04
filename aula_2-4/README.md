@@ -1,6 +1,6 @@
-# Compiladores 1
+# Compiladores 1 -Um compilador simples de uma passagem
 
-Um compilador simples de uma passagem
+A análise gramatical.
 
 ## Análise gramatical
 

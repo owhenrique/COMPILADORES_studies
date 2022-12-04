@@ -1,6 +1,6 @@
-# COMPILADORES 1
+# COMPILADORES 1 - Um Compilador simples de uma passagem
 
-Um compilador simples de uma passagem.
+Visão geral.
 
 ## Caracterização de uma linguagem de programação
 

@@ -1,4 +1,4 @@
-# Compiladores 1
+# Compiladores 1 - Um compilador simples de uma passagem
 
 Um tradutor para expressões simples.
 
