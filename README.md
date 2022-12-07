@@ -11,3 +11,4 @@ Repositório dedicado aos estudos/exercícios da disciplina de Compiladores 1.
     * <a href="https://github.com/owhenrique/COMPILADORES_studies/tree/main/aula_2-5">Um tradutor para expressões simples</a>
     * <a href="https://github.com/owhenrique/COMPILADORES_studies/tree/main/aula_2-6">Análise léxica</a>
     * <a href="https://github.com/owhenrique/COMPILADORES_studies/tree/main/aula_2-7">Incorporando uma tabela de símbolos</a>
+    * <a href="https://github.com/owhenrique/COMPILADORES_studies/tree/main/aula_2-8">Máquinas de pilha abstratas</a>
